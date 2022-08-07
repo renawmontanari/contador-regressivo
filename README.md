@@ -1,1 +1,1 @@
-# contador-regressivo
+# Contador regressivo com JavaScript puro.
